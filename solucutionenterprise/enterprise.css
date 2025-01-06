@@ -1,0 +1,172 @@
+.enterpriseFull{
+    background-color: rgba(8, 52, 8, 0.637);
+    color: white;
+}
+.ilkİmage{
+    width: 400px;
+    height: 500px;
+}
+.enternavbar{
+    color: white !important;
+}
+.navP{
+    font-weight: bold;
+}
+.navH{
+    font-weight: bolder;
+    font-size: 4rem;
+}
+.navP2{
+    font-weight: bold;
+    font-size: larger;
+}
+.enterİMG{
+    height: 50px;
+    width: 1000px;
+}
+.imgİcon{
+    font-size: 3rem;
+}
+.soncard{
+    width: 400px;
+    height: 400px;
+}
+.sonP{
+    font-weight: bold;
+    font-size: small;
+}
+.sonH1{
+    font-weight: bolder;
+    font-size: 3rem;
+}
+.sonP2{
+    font-weight: 200;
+}
+.sonimg{
+    width: 200px;
+    height: 200px;
+    margin-left: 3rem;
+}
+.sonBtn{
+    margin-top: 6rem;
+}
+.jumSon{
+    font-weight: 300;
+}
+.jumCol6{
+    margin-top: 4rem;
+    color: white;
+}
+.jumSonFull{
+    background-color: rgb(24, 53, 53) !important;
+}
+.sonBtn{
+   
+    height: 60px !important;
+    background-color: blanchedalmond;
+    color: black;
+}
+.altFull{
+    background-color: rgba(211, 211, 211, 0.301);
+}
+.sonfoto{
+width: 400px;
+height: 400px;
+margin-top: 5rem !important;
+margin-left: 4rem;
+}
+.fa-solid .fa-user{
+    width: 5rem !important;
+    height: 5rem !important;
+}
+.enaltfull{
+    color:  rgb(58, 75, 23);
+    background-color: rgba(211, 211, 211, 0.301) ;
+}
+.sonjumFull{
+    background-color: rgb(20, 93, 20) !important;
+    color: white !important;
+}
+
+.listee{
+    margin-left: 2rem;
+    margin-top: 6rem;
+    margin-bottom: 6rem;
+    font-size:small;
+    list-style: none;
+ 
+ }
+ .liste{
+    margin-left: 6rem;
+    margin-right: 3rem;
+ 
+ }
+ .listeFirst{
+    background-color: rgb(24, 18, 18);
+ color: blue;
+ }
+ .iconlar{
+    color: white;
+    font-style: italic;
+    margin: 1rem;
+ }
+ .iconlar2{
+    color: rgb(143, 255, 218);
+    font-style: italic;
+    margin: 1rem;
+    text-decoration: underline;
+ }
+ .icon1{
+    margin-top: 0rem;
+    margin-left: 185px;
+ }
+ .fa-instagram{
+ margin: 1rem;
+ font-size: 2rem;
+ color: white;
+ }
+ .fa-facebook{
+ margin: 1rem;
+ font-size: 2rem;
+ color: white;
+ 
+ }
+ .fa-youtube{
+ margin: 1rem;
+ font-size: 2rem;
+ color: white;
+ }
+ .fa-twitter{
+ margin: 1rem;
+ font-size: 2rem;
+ color: white;
+ }
+ .fa-linkedin-in{
+ margin: 1rem;
+ font-size: 2rem;
+ color: white;
+ }
+ .fa-tiktok{
+ margin: 1rem;
+ font-size: 2rem;
+ color: white;
+ }
+ .zendeskdiv{
+    display: flex;
+    justify-content: center;
+    font-size: 17rem;
+    color: white;
+ }
+ .terms{
+    color: white;
+    margin: 1rem;
+ }
+ .terms1{
+    margin: 10px;
+    font-size: 13px;
+ }
+ .altP{
+  /* margin: 3rem; */
+  color: whitesmoke;
+  font-size: 11px;
+ }

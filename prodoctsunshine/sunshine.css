@@ -1,0 +1,328 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: rgba(229, 220, 190, 0.134);
+}
+
+.navbarFirst {
+    margin: 0px;
+    padding: 0px;
+
+}
+.blabla{
+    margin: 5rem;
+}
+.navH{
+    font-size: 4rem;
+    font-style: italic;
+}
+.navP2{
+    font-size: 18px;
+}
+.fulltime {
+    background: linear-gradient(to bottom  right, #ffcc00d4, #ffffff);
+  }
+.dropdown-menu{
+  display: flex;
+  flex-wrap: wrap;
+}
+.aa{
+  display: inline-block;
+}
+.bb{
+  display: block;
+}
+
+.navbar-expand-lg {
+    margin: 0px;
+
+}
+
+.navbar-collapse {
+    margin: 10px;
+    padding: 1rem;
+    margin-left: 3rem;
+}
+.navbarilk{
+    color: black;
+ }
+ 
+  .flex-container {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+  }
+  .btn1{
+     background-color: rgb(171, 102, 161);
+     color: rgb(255, 255, 255);
+  }
+  .btn2{
+     background-color: white;
+     border: 1rem;
+     border-color: black;
+  }
+  .btn3{
+    font-size: 15px;
+    padding: 15px 30px;
+    size: 1rem;
+    
+ }
+ .navbarBaslik{
+    font-size:4rem;
+ }
+ .navbarP{
+    font-size: x-large;
+ }
+ .cardslar{
+    height: 11rem;
+    background: linear-gradient(to bottom  right, #c8c1aa4b, #ffffff2a) !important;
+border:none !important;
+ }
+ .cards1 {
+    border-bottom: 5px solid #ffd000 !important; /* Kırmızı renk */
+  }
+  .cards2 {
+    border-bottom: 5px solid #002070 !important; /* Kırmızı renk */
+  }
+  .cards3 {
+    border-bottom: 5px solid #7b0000 !important; /* Kırmızı renk */
+  }
+  
+ .cardsH{
+    font-weight: bolder;
+ }
+ .cardsP{
+    font-weight:230;
+ }
+ .linkH{
+    font-weight: bold;
+ }
+ .linkP{
+    font-weight: lighter;
+ }
+.link2{
+    background-color: rgba(112, 128, 144, 0.142);
+}
+.custom-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Ekran yüksekliği kadar alan kapla */
+}
+.conp2{
+    font-weight: bold;
+}
+.con2{
+    color: rgb(10, 52, 36);
+}
+.conh2{
+    font-weight: bolder;
+}
+.conp12{
+    font-weight:200;
+    width: 45rem;
+    margin-left: 6rem !important;
+}
+.con2link{
+    font-size: 1.3rem;
+    color: rgb(14, 68, 47);
+
+}
+.linkHson{
+    font-size: 3rem;
+    font-weight: bolder;
+}
+.linkson{
+    background-color: rgba(112, 128, 144, 0.142);
+
+}
+.custom-conP{
+    font-weight: bold;
+
+}
+.custom-conH{
+    font-weight: bolder;
+    
+}
+.custom-conP2{
+    width: 45rem;
+    margin-left: 12rem !important;
+    font-weight: 200;
+}
+.custom-conH3{
+    font-weight: bold;
+    font-style: italic;
+}
+.custom-conP3{
+    font-weight: 250;
+    font-size: 1.5REM;
+    color: #03133d;
+}
+.custom-conH5{
+    font-weight: 280;
+}
+.custom-conP4{
+    font-weight: 200;
+}
+.custom-con{
+    color: rgb(14, 68, 47);
+
+}
+.markalar{
+margin-top: 5rem;
+margin-bottom: 5rem;
+    display: flex !important;
+    justify-content: center !important;
+}
+.sonconh6{
+    width: 35rem;
+    margin-left: 18rem !important;
+    font-weight: 200;
+    font-size: 1.4rem;
+    margin-bottom: 3rem;
+}
+.sonconh5{
+    font-weight: bold;
+}
+.sonconp{
+    font-weight: 100;
+}
+.custom-con{
+    background-color: rgba(139, 145, 151, 0.142);
+}
+.linktime{
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+.bilmemneh1{
+    font-weight: bolder;
+    font-size: 3.4rem;
+}
+.bilmemnecon{
+    margin-left: 11rem !important; 
+}
+.bilcard{
+    background-color: white;
+    padding: 20px;
+    border-radius: 80px;
+    box-shadow: 3px 30px 30px rgba(0, 0, 0, 0.1); /* Gölge ekliyoruz */
+
+}
+.jumson{
+    background-image: url('https://img.freepik.com/free-vector/abstract-orange-waves-background-with-smooth-lines_1182-1346.jpg?w=1060&t=st=1692625046~exp=1692625646~hmac=8eaed1f7c1e443d2ec2708cda8a01ac30042090be65dc97d69aab7ef6db488b6');
+    background-size:cover;
+    background-position: center; 
+
+    background-repeat: no-repeat; 
+}
+
+.jumsonBTN2{
+    background-color: #004570 !important;
+    color: white !important;
+
+}
+.jumsonBTN{
+    font-size: 1.3rem !important;
+}
+.jumsonBTN3{
+    font-size: 1rem;
+}
+/* .sonlist{
+    list-style: none;
+font-size: smaller;
+
+}
+.sonlisLİ{
+    font-size: 10 !important;
+    font-weight:lighter;
+    margin-top: 5px;
+}
+.sonlisH6{
+    font-size: small;
+}
+.sonlisteilkH{
+    font-weight: bolder;
+} */
+.listee{
+    margin-left: 2rem;
+    margin-top: 6rem;
+    margin-bottom: 6rem;
+    font-size:small;
+    list-style: none;
+ 
+ }
+ .liste{
+    margin-left: 6rem;
+    margin-right: 3rem;
+ 
+ }
+ .listeFirst{
+    background-color: rgb(24, 18, 18);
+ color: blue;
+ }
+ .iconlar{
+    color: white;
+    font-style: italic;
+    margin: 1rem;
+ }
+ .iconlar2{
+    color: rgb(143, 255, 218);
+    font-style: italic;
+    margin: 1rem;
+    text-decoration: underline;
+ }
+ .icon1{
+    margin-top: 0rem;
+    margin-left: 185px;
+ }
+ .fa-instagram{
+ margin: 1rem;
+ font-size: 2rem;
+ color: white;
+ }
+ .fa-facebook{
+ margin: 1rem;
+ font-size: 2rem;
+ color: white;
+ 
+ }
+ .fa-youtube{
+ margin: 1rem;
+ font-size: 2rem;
+ color: white;
+ }
+ .fa-twitter{
+ margin: 1rem;
+ font-size: 2rem;
+ color: white;
+ }
+ .fa-linkedin-in{
+ margin: 1rem;
+ font-size: 2rem;
+ color: white;
+ }
+ .fa-tiktok{
+ margin: 1rem;
+ font-size: 2rem;
+ color: white;
+ }
+ .zendeskdiv{
+    display: flex;
+    justify-content: center;
+    font-size: 17rem;
+    color: white;
+ }
+ .terms{
+    color: white;
+    margin: 1rem;
+ }
+ .terms1{
+    margin: 10px;
+    font-size: 13px;
+ }
+ .altP{
+  /* margin: 3rem; */
+  color: whitesmoke;
+  font-size: 11px;
+ }
+

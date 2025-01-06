@@ -1,0 +1,282 @@
+.full{
+    background-color: rgba(229, 220, 190, 0.134);
+}
+.navbarBaslik{
+    font-size:9rem;
+ }
+ .navbarP{
+    font-size:x-small;
+ }
+.blabla{
+    margin-left: 8rem;
+}
+.videoc{
+    margin-top: 0rem;
+    margin-bottom: 10rem;
+}
+.NavP{
+    font-size: small;
+}
+.navH{
+    font-style: italic;
+    font-size: 4rem;
+}
+.navP2{
+    font-weight: bold;
+}
+.btn.ugras{
+    background-color: rgb(171, 102, 161);
+    color: white;
+}
+.btn.btn0{
+
+   font-size: 15px;
+   padding: 15px 30px;
+   size: 1rem;
+}
+.cardtext{
+    font-size: medium;
+    width: 150px;
+}
+.cardimage{
+    width: 70rem;
+}
+.tekkart{
+    margin-left: 12rem;
+    margin-right: 12rem;
+}
+.no-border-card{
+    border: none;
+}
+.yeto{
+ padding: 2rem;
+
+}
+.yetyet {
+    margin-right: 12rem;
+}
+.yett{
+    background-color: rgba(255, 228, 196, 0.3);
+
+}
+
+.iconslar{
+    font-size: 25px;
+
+}
+.iconYazılar{
+    font-size:17px;
+}
+.iconPler{
+    color:  rgba(255, 228, 196, 0.3);
+    
+}
+.hilo{
+    color: white;
+}
+.hlo2{
+    color: white;
+}
+.divCarousel{
+    background-color: black;
+    color: white;
+}
+ .alti-cizili-beyaz-yazi {
+    text-decoration: underline;
+    color: white;
+    margin-top: 2rem;
+font-style: italic;
+}
+.italic{
+    font-style: italic;
+
+}
+.col8tarafi{
+    margin-top: 3rem;
+}
+.cifttirnak{
+    color: rgb(154, 255, 30);
+
+}
+.topbolum{
+    margin-top: 3rem;
+}
+.resimDiv{
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+}
+.yoruldum{
+    margin-left: 10rem;
+}
+.yito{
+    margin: 1rem;
+}
+.ortabaslik{
+    margin-right: 8rem;
+}
+.yitoH{
+    font-size: medium;
+}
+.yitoP{
+    font-size: small;
+}
+.yitoFull{
+    background-color:   rgba(255, 228, 196, 0.098);
+
+}
+.conBaslik{
+    font-size: 43px;
+    font-style: italic;
+}
+.alti-cizili-siyah-yazi {
+    text-decoration: underline;
+    color: rgb(0, 0, 0);
+
+
+}
+.jumbotron {
+    background-color:  rgba(176, 155, 130, 0.236) !important;
+}
+.center-container {
+    display: flex;
+    justify-content: center;
+    /* align-items: center; */
+
+  }
+  .btnbilmemne{
+    background-color: rgb(171, 102, 161) !important;
+    color: white !important;
+    font-size: 20px !important;
+    height: 50px !important;
+    width: 180px !important;
+  }
+  .nonono{
+    background-color:  rgba(176, 155, 130, 0.236) !important;
+  }
+  .yahu{
+    font-style: italic;
+  }
+  .listee{
+    margin-left: 2rem;
+    margin-top: 6rem;
+    margin-bottom: 6rem;
+    font-size:small;
+    list-style: none;
+ 
+ }
+ .liste{
+    margin-left: 6rem;
+    margin-right: 3rem;
+ 
+ }
+ .listeFirst{
+    background-color: rgb(24, 18, 18);
+ color: blue;
+ }
+ .iconlar{
+    color: white;
+    font-style: italic;
+    margin: 1rem;
+ }
+ .iconlar2{
+    color: rgb(143, 255, 218);
+    font-style: italic;
+    margin: 1rem;
+    text-decoration: underline;
+ }
+ .icon1{
+    margin-top: 0rem;
+    margin-left: 185px;
+ }
+ .fa-instagram{
+ margin: 1rem;
+ font-size: 2rem;
+ color: white;
+ }
+ .fa-facebook{
+ margin: 1rem;
+ font-size: 2rem;
+ color: white;
+ 
+ }
+ .fa-youtube{
+ margin: 1rem;
+ font-size: 2rem;
+ color: white;
+ }
+ .fa-twitter{
+ margin: 1rem;
+ font-size: 2rem;
+ color: white;
+ }
+ .fa-linkedin-in{
+ margin: 1rem;
+ font-size: 2rem;
+ color: white;
+ }
+ .fa-tiktok{
+ margin: 1rem;
+ font-size: 2rem;
+ color: white;
+ }
+ .zendeskdiv{
+    display: flex;
+    justify-content: center;
+    font-size: 17rem;
+    color: white;
+ }
+ .terms{
+    color: white;
+    margin: 1rem;
+ }
+ .terms1{
+    margin: 10px;
+    font-size: 13px;
+ }
+ .altP{
+  /* margin: 3rem; */
+  color: whitesmoke;
+  font-size: 11px;
+ }
+
+
+ .RESOURCES{
+    background-color: rgba(231, 212, 183, 0.217);
+  }
+  .div1{
+    margin-top: 3rem;
+  }
+  .div2{
+    margin-left: 10rem;
+    margin-top: 3rem;
+  }
+  .div3{
+    margin-left: 9rem;
+    margin-top: 3rem;
+  }
+  .div4{
+    margin: 1rem;
+  }
+ .divH6{
+    font-size:small;
+    
+ }
+ .divH5{
+ font-style: italic;
+ }
+ .divP{
+ font-size:medium;
+ color: rgba(0, 0, 0, 0.683);
+ }
+ .resimbtn{
+    background-color: rgba(168, 51, 181, 0.814);
+    color: white;
+ }
+ .resimbtn2{
+    margin: 1rem;
+ font-size: 23px;
+ }
+ .yeter{
+    margin-top: 9rem;
+ }
+ 

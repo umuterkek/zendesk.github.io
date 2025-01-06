@@ -1,0 +1,261 @@
+.ilkimage{
+   margin-left: 10rem;
+    background-color: transparent;
+    border-radius: 100% 0 0 0;
+    overflow: hidden;
+}
+.ilkFull{
+    background-color: rgba(186, 142, 77, 0.353);
+}
+.NavP{
+    font-size: small;
+}
+.navH{
+    font-style: italic;
+    font-size: 4rem;
+}
+.navP2{
+    font-weight:150;
+}
+
+.btn.btn0{
+
+   font-size: 15px;
+   padding: 15px 30px;
+   size: 1rem;
+}
+.btn.btn1{
+    background-color: rgb(12, 71, 56);
+    color: white;
+}
+.netvideo{
+    margin-left: 10rem;
+}
+.ilkH{
+    font-size: 3rem;
+    font-weight: bold;
+}
+.navbarFirst{
+    background-color: rgba(197, 197, 197, 0.22);
+    
+}
+.alth{
+    font-weight: bold;
+}
+.altp{
+    font-weight: 100;
+}
+.jumh6{
+    font-size: 2rem !important;
+    font-weight: bolder;
+    color:  rgb(13, 69, 55);
+}
+.jump{
+    font-weight: 120;
+    font-size: 1rem !important;
+    color: rgb(18, 107, 85) ;
+}
+.jumbtn{
+margin-top: 2.7rem;
+background-color: rgb(12, 74, 58);
+color: white;
+font-size: larger;
+}
+.jumson{
+    background-color: rgba(229, 202, 166, 0.581);
+    margin: 4rem !important;
+}
+.toggle-content {
+    display: none;
+}
+.section {
+    margin-bottom: 20px;
+    cursor: pointer;
+}
+.section h3 {
+    margin: 0;
+    padding-bottom: 10px;
+}
+.section input[type="checkbox"] {
+    display: none;
+}
+.section input[type="checkbox"] + label {
+    cursor: pointer;
+    display: block;
+}
+.section input[type="checkbox"]:checked ~ .toggle-content {
+    display: block;
+}
+.gptUl{
+    list-style: none;
+
+}
+
+.section h3 {
+    font-size: 20px; /* İstediğiniz font boyutunu burada belirleyebilirsiniz */
+font-weight: 300;
+}
+.dh1{
+    font-weight: bolder;
+    font-size: 3.4rem;
+}
+.dh6{
+    font-size: 0.9rem;
+
+}
+.soncon{
+    background-color: rgba(112, 128, 144, 0.114);
+}
+.sonconDiv{
+    margin-top: 5rem !important;
+}
+.cardson {
+    width: 350px; /* İstediğiniz genişlik değerini burada ayarlayabilirsiniz */
+    height: 200px; /* İstediğiniz yükseklik değerini burada ayarlayabilirsiniz */
+    height: 11rem;
+    background: linear-gradient(to bottom  right, #c8c1aa4b, #ffffff2a) !important;
+border:none !important;
+}
+.sonH{
+    font-weight: bold;
+    font-size:x-large;
+}
+.soncards{
+    border-bottom:3px solid  rgb(203, 193, 136);
+}
+.yuzdelik{
+    font-size: 1rem;
+margin: 3.4rem;}
+.yuzdep{
+  
+}
+.center-content {
+justify-content: center;
+
+display: flex;
+}
+.cardh5{
+    font-weight: bolder;
+}
+.cardfull{
+    background-color: rgba(112, 128, 144, 0.113);
+}
+.cardbtnson{
+    background-color: darkcyan;
+    color: white;
+    font-size: larger;
+}
+.round-image {
+    width: 500px;
+    height: 500px;
+    border-radius: 50%;
+    overflow: hidden;
+}
+.round-image img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+.jumBtn2{
+    background-color:rgb(1, 54, 54) ;
+    color: white;
+    font-size: x-large;
+}
+.jumBtn3{
+    font-size: x-large;
+    border:1rem #c8c1aa4b;
+}
+.jumSon2{
+    background-color: rgba(229, 197, 185, 0.49);
+}
+.jumH1{
+    font-weight: bolder;
+}
+
+
+
+
+.listee{
+    margin-left: 2rem;
+    margin-top: 6rem;
+    margin-bottom: 6rem;
+    font-size:small;
+    list-style: none;
+ 
+ }
+ .liste{
+    margin-left: 6rem;
+    margin-right: 3rem;
+ 
+ }
+ .listeFirst{
+    background-color: rgb(24, 18, 18);
+ color: blue;
+ }
+ .iconlar{
+    color: white;
+    font-style: italic;
+    margin: 1rem;
+ }
+ .iconlar2{
+    color: rgb(143, 255, 218);
+    font-style: italic;
+    margin: 1rem;
+    text-decoration: underline;
+ }
+ .icon1{
+    margin-top: 0rem;
+    margin-left: 185px;
+ }
+ .fa-instagram{
+ margin: 1rem;
+ font-size: 2rem;
+ color: white;
+ }
+ .fa-facebook{
+ margin: 1rem;
+ font-size: 2rem;
+ color: white;
+ 
+ }
+ .fa-youtube{
+ margin: 1rem;
+ font-size: 2rem;
+ color: white;
+ }
+ .fa-twitter{
+ margin: 1rem;
+ font-size: 2rem;
+ color: white;
+ }
+ .fa-linkedin-in{
+ margin: 1rem;
+ font-size: 2rem;
+ color: white;
+ }
+ .fa-tiktok{
+ margin: 1rem;
+ font-size: 2rem;
+ color: white;
+ }
+ .zendeskdiv{
+    display: flex;
+    justify-content: center;
+    font-size: 17rem;
+    color: white;
+ }
+ .terms{
+    color: white;
+    margin: 1rem;
+ }
+ .terms1{
+    margin: 10px;
+    font-size: 13px;
+ }
+ .altP{
+  /* margin: 3rem; */
+  color: whitesmoke;
+  font-size: 11px;
+ }
+
+

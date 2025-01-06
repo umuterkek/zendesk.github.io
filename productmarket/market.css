@@ -1,0 +1,230 @@
+.ilkimage{
+    margin-left: 10rem;
+     background-color: transparent;
+     border-radius: 100% 0 0 0;
+     overflow: hidden;
+ }
+.marketFull{
+    background-color:rgba(242, 173, 173, 0.777);
+}
+ .blabla{
+    margin-top: 2rem;
+ }
+ .NavP{
+     font-size: small;
+ }
+ .navH{
+font-weight: bolder;
+     font-size: 5rem;
+ }
+ .navP2{
+     font-weight:300;
+     font-size: larger;
+ }
+ .marketBtn{
+    font-size: 2rem !important;
+
+ }
+ .marketBtn2{
+    font-size: larger;
+    margin: 0.4rem;
+    width: 27rem;
+    height: 5rem;
+margin-left: 3rem;
+background-color:rgb(244, 202, 202);
+ }
+ #searchInput {
+    width: 500px;
+    height: 50px; /* İstenilen yükseklik değerini burada belirleyebilirsiniz */
+}
+.card-container {
+    display: flex;
+    justify-content: space-between; /* Kartları eşit boşluk bırakarak hizala */
+}
+
+.card {
+    border: 1px solid #ddd;
+    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.1);
+    flex: 1;
+    margin-right: 15px; /* Sağ tarafta boşluk bırak */
+}
+.card:last-child {
+    margin-right: 0; /* Son kartın sağ tarafında boşluk bırakma */
+}
+.card-img-top{
+    width: 5rem;
+}
+.ilkİcon{
+    color: rgb(30, 119, 30);
+    font-size: small;
+}
+.ilkP{
+    font-size: smaller;
+}
+.card-container {
+    display: flex;
+    justify-content: space-between; /* Kartları eşit boşluk bırakarak hizala */
+}
+
+.card {
+    border: none;
+
+
+    margin-right: 15px; /* Sağ tarafta boşluk bırak */
+}
+.card:last-child {
+    margin-right: 0; /* Son kartın sağ tarafında boşluk bırakma */
+}
+.cardBorder {
+    border: none;
+}
+.cardP{
+    font-weight: 200;
+}
+.cardH5{
+    font-weight: bold;
+}
+.underlined {
+    text-decoration: underline;
+    font-size: large;
+    margin-bottom: 10px;
+}
+.soncardCon{
+    background-color: rgba(220, 220, 220, 0.194);
+}
+.sonimage{
+    width: 160px;
+    height: 60px;
+}
+.sonimage2{
+    width: 80px;
+    height: 60px;
+}
+.sonimage3{
+    width: 80px;
+    height: 60px;
+}
+.sonimage4{
+    width: 80px;
+    height: 60px;
+}
+.soncardyito{
+    background-color: rgba(189, 189, 189, 0.444);
+}
+.yitoİmg{
+
+height: 400px;
+}
+.yitoİmg2{
+    height: 400px;
+}
+.underlined-link {
+    text-decoration: underline;
+}
+.kucukResim{
+    width: 30rem;
+}
+.sunp{
+    font-weight: bold;
+}
+.sunH1{
+    font-weight: bolder;
+}
+.sunp2{
+    font-weight: 200;
+}
+.sunBtn{
+    font-size: 1.7rem !important;
+}
+.jumSon2{
+    background: linear-gradient(to bottom  right, #ffcc00d4, #ffffff);
+
+}
+
+
+
+
+
+.listee{
+    margin-left: 2rem;
+    margin-top: 6rem;
+    margin-bottom: 6rem;
+    font-size:small;
+    list-style: none;
+ 
+ }
+ .liste{
+    margin-left: 6rem;
+    margin-right: 3rem;
+ 
+ }
+ .listeFirst{
+    background-color: rgb(24, 18, 18);
+ color: blue;
+ }
+ .iconlar{
+    color: white;
+    font-style: italic;
+    margin: 1rem;
+ }
+ .iconlar2{
+    color: rgb(143, 255, 218);
+    font-style: italic;
+    margin: 1rem;
+    text-decoration: underline;
+ }
+ .icon1{
+    margin-top: 0rem;
+    margin-left: 185px;
+ }
+ .fa-instagram{
+ margin: 1rem;
+ font-size: 2rem;
+ color: white;
+ }
+ .fa-facebook{
+ margin: 1rem;
+ font-size: 2rem;
+ color: white;
+ 
+ }
+ .fa-youtube{
+ margin: 1rem;
+ font-size: 2rem;
+ color: white;
+ }
+ç .fa-twitter{
+ margin: 1rem;
+ font-size: 2rem;
+ color: white;
+ }
+ .fa-linkedin-in{
+ margin: 1rem;
+ font-size: 2rem;
+ color: white;
+ }
+ .fa-tiktok{
+ margin: 1rem;
+ font-size: 2rem;
+ color: white;
+ }
+ .zendeskdiv{
+    display: flex;
+    justify-content: center;
+    font-size: 17rem;
+    color: white;
+ }
+ .terms{
+    color: white;
+    margin: 1rem;
+ }
+ .terms1{
+    margin: 10px;
+    font-size: 13px;
+ }
+ .altP{
+  /* margin: 3rem; */
+  color: whitesmoke;
+  font-size: 11px;
+ }
+
